@@ -66,6 +66,7 @@ const styles = StyleSheet.create({
 
     titleContainer: {
         alignItems: 'center',
+        marginInline: 30,
         marginBlockStart: 100,
         zIndex: 2,
     },
