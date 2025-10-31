@@ -1,10 +1,14 @@
 🛠️ Requisitos del Sistema
-Node.js
-Expo CLI
+
+1. Node.js
+
+2- Expo CLI
+
 ```bash
     npm install -g expo-cli
   ```
-Expo Go (Aplicación que debes instalar en tu telefono)
+
+3. Expo Go (Aplicación que debes instalar en tu telefono)
 
 💻 Instalación y Ejecución
 Sigue estos pasos para poner el proyecto en marcha:
